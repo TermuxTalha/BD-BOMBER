@@ -17,7 +17,7 @@ cd BD-BOMBER
 python2 talha-sms.py
 
 
-video link : https://www.facebook.com/100070999389590/posts/pfbid0txakPY6mAM3acKyRHrc3CxnQzd5bavFycyRtoxaAmcQqxBwmyZeihn2nTuifDzRMl/?app=fbl
+video link : 
 
   ۝ •TB• ۝JOIN MY TELEGRAM GROUP : https://t.me/talhatechnology
 
